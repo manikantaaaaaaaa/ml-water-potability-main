@@ -19,7 +19,7 @@ numpy==1.22.3
 pydantic==1.9.0
 python-dotenv==0.19.2
 python-multipart==0.0.5
-PyYAML==5.4.1
+PyYAML==6.0
 requests==2.27.1
 scikit-learn==1.0.2
 scipy==1.8.0
